@@ -1,0 +1,32 @@
+Iteration,Prompt,Image Path,Clip Score,DSG Score,Avg Score
+1,A young girl in a red cloak walks through a forest where she encounters a large hungry wolf.,generated_image_DSG_5239.png,0.241817644238472,0.875,0.7483635288476944
+2,"""A young girl in a red cloak walks through a forest where a large hungry wolf is lurking.""",generated_image_DSG_4315.png,0.2670251950621605,0.6,0.5334050390124321
+3,"""A young girl in a red cloak walks through a forest with a large wolf lurking nearby.""",generated_image_DSG_7324.png,0.2604865531126658,1.0,0.8520973106225332
+4,"""A young girl in a red cloak walks through a forest with a large wolf nearby.""",generated_image_DSG_9763.png,0.2612870410084724,1.0,0.8522574082016945
+5,"""A young girl in a red cloak walks through a forest with a large wolf lurking nearby.""",generated_image_DSG_9916.png,0.2592628399531047,0.8571428571428571,0.7375668537049067
+6,"""A young girl in a red cloak walks through a forest with a large hungry wolf lurking nearby.""",generated_image_DSG_3604.png,0.271667867898941,0.8333333333333334,0.7210002402464549
+7,"""A young girl in a red cloak walks through a forest with a hungry wolf nearby.""",generated_image_DSG_9401.png,0.2657887525856495,0.8571428571428571,0.7388720362314156
+8,"""A young girl in a red cloak walks through a forest, accompanied by a hungry wolf.""",generated_image_DSG_9876.png,0.2723554372787475,0.8,0.6944710874557496
+9,"""A young girl in a red cloak walks through a forest with a hungry wolf nearby.""",generated_image_DSG_4704.png,0.2626755386590957,0.8571428571428571,0.7382493934461049
+10,"""A young girl in a red cloak walks through a forest with a hungry wolf nearby.""",generated_image_DSG_9534.png,0.2571787610650062,0.8,0.6914357522130014
+11,Young girl in a red cloak walking through a forest near a hungry wolf.,generated_image_DSG_5525.png,0.2453378066420555,0.8333333333333334,0.7157342279950778
+12,"""Girl in a red cloak walking through a forest near a hungry wolf.""",generated_image_DSG_7093.png,0.2649897299706936,0.7142857142857143,0.6244265174227103
+13,"""Girl in a red cloak walking through a forest with a hungry wolf nearby.""",generated_image_DSG_5416.png,0.2573451362550258,0.8571428571428571,0.7371833129652909
+14,"""Girl in a red cloak walking through forest with nearby wolf.""",generated_image_DSG_9377.png,0.2580600641667843,1.0,0.8516120128333569
+15,Young girl in a red cloak walking through forest with nearby wolf.,generated_image_DSG_1871.png,0.2663262598216533,1.0,0.8532652519643307
+16,Young girl in a red cloak walking through forest with a nearby hungry wolf.,generated_image_DSG_3615.png,0.2682118862867355,0.8571428571428571,0.7393566629716328
+17,Young girl in red cloak walking through forest with a nearby hungry wolf.,generated_image_DSG_1681.png,0.2597805298864841,1.0,0.8519561059772969
+18,Young girl in a red cloak walks through dense forest near a hungry wolf.,generated_image_DSG_4477.png,0.2691991850733757,0.8571428571428571,0.7395541227289608
+19,Young girl in a red cloak walks through dense forest with a nearby hungry wolf.,generated_image_DSG_2806.png,0.2652920037508011,0.8333333333333334,0.719725067416827
+20,Young girl in a red cloak walks through dense forest with a hungry wolf nearby.,generated_image_DSG_7575.png,0.2577977925539017,1.0,0.8515595585107804
+21,Young girl in a red cloak walks through dense forest with a hungry wolf nearby.,generated_image_DSG_1000.png,0.2559715807437897,0.8333333333333334,0.7178609828154247
+22,A young girl in a red cloak walks through a dense forest with a hungry wolf nearby.,generated_image_DSG_2243.png,0.2589882835745811,0.8333333333333334,0.718464323381583
+23,A young girl in a red cloak walks through dense forest with a hungry wolf nearby.,generated_image_DSG_5397.png,0.2609395682811737,0.8333333333333334,0.7188545803229015
+24,"A young girl in a red cloak walks through dense forest, with a hungry wolf lurking nearby.",generated_image_DSG_4510.png,0.2667892947793007,0.8333333333333334,0.7200245256225268
+25,"A young girl in a red cloak walks through dense forest with a hungry wolf lurking nearby, but closely following her.",generated_image_DSG_1766.png,0.2553088843822479,0.8571428571428571,0.7367760625907354
+26,A young girl in a red cloak walks through dense forest with a hungry wolf closely following behind.,generated_image_DSG_5512.png,0.2572268471121788,0.8333333333333334,0.7181120360891025
+27,A young girl in a red cloak walks through dense forest with a hungry wolf closely following her.,generated_image_DSG_6593.png,0.2631508290767669,1.0,0.8526301658153534
+28,A young girl in a red cloak walks through dense forest with a hungry wolf following closely behind her.,generated_image_DSG_5699.png,0.2579759299755096,1.0,0.851595185995102
+29,A young girl in a red cloak walks through dense forest as a hungry wolf closely follows behind.,generated_image_DSG_6480.png,0.2587199881672859,0.8333333333333334,0.7184106643001239
+30,A young girl in a red cloak walks through dense forest with a hungry wolf closely behind her.,generated_image_DSG_5259.png,0.2555892825126648,0.8333333333333334,0.7177845231691997
+31,A young girl in a red cloak walks through dense forest with a hungry wolf closely behind her.,final_optimized_image_dsg_.png,0.2467246770858764,0.8,0.6893449354171755

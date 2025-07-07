@@ -1,0 +1,36 @@
+Iteration,Prompt,Image Path,Clip Score,DSG Score,Avg Score
+1,A hunter cuts through a beast's belly to free a trapped young girl.,generated_image_DSG_6267.png,0.2391201009353002,0.8333333333333334,0.7144906868537267
+2,"""A brave hunter frees a trapped young girl by cutting through the beast's belly with sharp blades.""",generated_image_DSG_4640.png,0.2517102658748626,0.5714285714285714,0.5074849103178296
+3,"""A brave hunter cuts through a beast's belly with sharp blades to free a trapped young girl.""",generated_image_DSG_7177.png,0.2180190421640873,0.7142857142857143,0.6150323798613889
+4,"""A brave hunter frees a trapped young girl by cutting through a beast's belly with sharp blades.""",generated_image_DSG_6909.png,0.2431972660124302,0.5714285714285714,0.5057823103453432
+5,A brave hunter cuts through a beast's belly with sharp blades to free a trapped young girl.,generated_image_DSG_3281.png,0.2311282940208912,0.7142857142857143,0.6176542302327498
+6,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl.""",generated_image_DSG_5167.png,0.23602831736207,0.8333333333333334,0.7138723301390808
+7,"""A brave hunter cuts through a beast's belly with sharp blades to free a trapped young girl.""",generated_image_DSG_7311.png,0.2439288422465324,0.5714285714285714,0.5059286255921636
+8,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in a focused hunt scene.""",generated_image_DSG_1835.png,0.2364362299442291,0.8333333333333334,0.7139539126555126
+9,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in a focused hunt scene.""",generated_image_DSG_6496.png,0.2435346573591232,0.8333333333333334,0.7153735981384914
+10,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in a focused hunt scene.""",generated_image_DSG_2129.png,0.2380664110183716,0.8333333333333334,0.7142799488703411
+11,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in a focused hunt scene."" is already concise and clear. However, I can suggest some minor adjustments based on the optimization history:
+
+""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in an urgent hunt scene.""
+
+This revised prompt maintains focus while slightly emphasizing urgency for higher DSG Score.",generated_image_DSG_5241.png,0.2283289104700088,0.6666666666666666,0.5789991154273351
+12,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in an urgent hunt scene.""",generated_image_DSG_6616.png,0.2299757361412048,0.6666666666666666,0.5793284805615743
+13,"""A brave hunter cuts through a beast's belly with sharp blades in an urgent hunt to rescue a young girl.""",generated_image_DSG_4484.png,0.2304482400417327,0.625,0.5460896480083466
+14,A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl.,generated_image_DSG_6311.png,0.2320878058671951,0.6,0.526417561173439
+15,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a trapped young girl in an urgent hunt scene.""",generated_image_DSG_4799.png,0.2372805446386337,0.8333333333333334,0.7141227755943935
+16,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a young girl trapped inside.""",generated_image_DSG_3555.png,0.2386752888560295,0.6666666666666666,0.5810683911045392
+17,"""A brave hunter cuts through a beast's belly with sharp blades to free a trapped young girl.""",generated_image_DSG_3264.png,0.2268499657511711,0.6666666666666666,0.5787033264835676
+18,"""A brave hunter cuts through a beast's belly with sharp blades to rescue a young girl trapped inside.""",generated_image_DSG_5635.png,0.2292652912437915,0.6666666666666666,0.5791863915820916
+19,"""A brave hunter rescues a young girl trapped inside a beast with sharp blades.""",generated_image_DSG_5534.png,0.2474779747426509,0.7142857142857143,0.6209241663771017
+20,"""A brave hunter cuts open a beast's belly with sharp blades to rescue a young girl trapped inside.""",generated_image_DSG_5480.png,0.2284896783530712,0.6666666666666666,0.5790312690039475
+21,"""A brave hunter cuts open a beast's belly with sharp blades to rescue a trapped young girl.""",generated_image_DSG_5510.png,0.2333169616758823,0.6666666666666666,0.5799967256685098
+22,"""A brave hunter cuts open a beast's belly to rescue a trapped young girl.""",generated_image_DSG_3590.png,0.245848794778188,1.0,0.8491697589556376
+23,"""A brave hunter cuts open a beast's belly with sharp blades to rescue a young girl.""",generated_image_DSG_4652.png,0.2358080595731735,0.625,0.5471616119146347
+24,"""A brave hunter cuts open a beast's belly with sharp blades to save a young girl.""",generated_image_DSG_5587.png,0.229115504771471,0.6666666666666666,0.5791564342876275
+25,"""A brave hunter cuts open a beast with sharp blades to rescue a young girl.""",generated_image_DSG_6176.png,0.2302036136388778,0.7142857142857143,0.6174692941563471
+26,"""A brave hunter cuts open a fierce beast with sharp blades to rescue a young girl.""",generated_image_DSG_3814.png,0.243476003408432,0.7142857142857143,0.6201237721102579
+27,"""A brave hunter cuts open a wounded beast with sharp blades to save a young girl.""",generated_image_DSG_8064.png,0.2232819162309169,0.8571428571428571,0.7303706689604691
+28,"""A brave hunter cuts open a wounded beast with sharp blades to rescue a young girl.""",generated_image_DSG_6816.png,0.2344205342233181,1.0,0.8468841068446636
+29,"""A brave hunter cuts open a wounded beast with sharp blades to save a young girl.""",generated_image_DSG_1991.png,0.2354967892169952,1.0,0.8470993578433991
+30,"""A brave hunter cuts open a wounded beast with sharp blades to rescue a young girl.""",generated_image_DSG_7680.png,0.2355735898017883,1.0,0.8471147179603578
+31,"""A brave hunter cuts open a wounded beast with sharp blades to rescue a young girl.""",final_optimized_image_dsg_.png,0.2389213144779205,0.8333333333333334,0.7144509295622509

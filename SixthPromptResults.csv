@@ -1,0 +1,32 @@
+Iteration,Prompt,Image Path,Clip Score,DSG Score,Avg Score
+1,"""A young girl nourishes her grandmother with a revitalizing meal as a brave hunter joins in their joyful reunion.""",generated_image_DSG_8453.png,0.2309327036142349,0.6666666666666666,0.5795198740561803
+2,"""A young girl prepares a nourishing meal for her elderly grandmother as they're joined by a brave hunter in their joyful reunion.""",generated_image_DSG_7816.png,0.2449563865860303,0.7142857142857143,0.6204198487457776
+3,"""A young girl nourishes her elderly grandmother with a meal as a brave hunter joins in their joyful reunion.""",generated_image_DSG_8711.png,0.2345435887575149,0.8333333333333334,0.7135753844181697
+4,"""A young girl nourishes her elderly grandmother with a revitalizing meal as a brave hunter joins their warm reunion.""",generated_image_DSG_9902.png,0.2482894897460937,0.7142857142857143,0.6210864693777902
+5,"""A young girl nourishes her elderly grandmother with a meal as a brave hunter joins them in their joyful reunion.""",generated_image_DSG_7970.png,0.2384712994098663,0.8333333333333334,0.71436092654864
+6,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion over a meal.""",generated_image_DSG_7033.png,0.2260250175992647,0.8333333333333334,0.7118716701865198
+7,"""A young girl cares for her elderly grandmother as a brave hunter joins their joyful reunion over a shared meal.""",generated_image_DSG_5881.png,0.2410072743892669,0.7777777777777778,0.6704236771000757
+8,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful mealtime reunion.""",generated_image_DSG_9638.png,0.2416756808757782,0.75,0.6483351361751557
+9,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful mealtime reunion.""",generated_image_DSG_9817.png,0.2376580029726028,0.75,0.6475316005945206
+10,"""A young girl cares for her elderly grandmother as a brave hunter joins them in joyful mealtime reunion.""",generated_image_DSG_2931.png,0.2370236128568649,1.0,0.847404722571373
+11,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a joyful meal.""",generated_image_DSG_5551.png,0.2416016161441803,0.8333333333333334,0.7149869898955028
+12,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a joyful warm mealtime reunion.""",generated_image_DSG_1291.png,0.2500426709651947,0.7142857142857143,0.6214371056216105
+13,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a warm mealtime reunion.""",generated_image_DSG_3926.png,0.2371937066316604,0.8571428571428571,0.7331530270406178
+14,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a joyful warm mealtime reunion.""",generated_image_DSG_5052.png,0.2394207626581192,0.8571428571428571,0.7335984382459095
+15,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a warm joyful reunion.""",generated_image_DSG_7491.png,0.236253821849823,0.8333333333333334,0.7139174310366313
+16,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a warm joyful meal.""",generated_image_DSG_8035.png,0.2294929355382919,0.8333333333333334,0.7125652537743251
+17,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a joyful reunion.""",generated_image_DSG_6092.png,0.2465599179267883,0.8,0.6893119835853578
+18,"""A young girl cares for her elderly grandmother as a brave hunter joins in a warm joyful reunion.""",generated_image_DSG_4554.png,0.2565401047468185,0.6666666666666666,0.584641354282697
+19,"""A young girl cares for her elderly grandmother as a brave hunter joins them in a warm joyful reunion.""",generated_image_DSG_6163.png,0.2481445431709289,0.7142857142857143,0.6210574800627573
+20,"""A young girl cares for her elderly grandmother. A brave hunter joins them in a warm and joyful reunion.""",generated_image_DSG_7912.png,0.240710574388504,0.8,0.6881421148777009
+21,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their warm joyful reunion.""",generated_image_DSG_4604.png,0.2365806132555007,0.8571428571428571,0.7330304083653859
+22,"""A young girl cares for her elderly grandmother as a brave hunter joins in their warm and joyful reunion.""",generated_image_DSG_7830.png,0.2374921925365924,0.875,0.7474984385073186
+23,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion.""",generated_image_DSG_9267.png,0.2337920576333999,1.0,0.8467584115266801
+24,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion.""",generated_image_DSG_2304.png,0.2453048259019851,0.8571428571428571,0.7347752508946828
+25,"""A young girl cares for her elderly grandmother as a brave hunter joins in their joyful reunion with warmth.""",generated_image_DSG_6701.png,0.2462584435939789,0.8333333333333334,0.7159183553854626
+26,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion.""",generated_image_DSG_3465.png,0.2456930607557296,0.875,0.749138612151146
+27,"""A young girl cares for her elderly grandmother as a brave hunter joins in their joyful reunion.""",generated_image_DSG_6015.png,0.2539808414876461,1.0,0.8507961682975292
+28,"""A young girl cares for her elderly grandmother as a brave hunter joins in their joyful reunion with warmth.""",generated_image_DSG_1339.png,0.243535965681076,0.8333333333333334,0.7153738598028819
+29,"""A young girl cares for her elderly grandmother as a brave hunter joins them with warmth in their joyful reunion.""",generated_image_DSG_6033.png,0.2486652682224909,1.0,0.8497330536444982
+30,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion.""",generated_image_DSG_3691.png,0.2453189700841903,1.0,0.8490637940168382
+31,"""A young girl cares for her elderly grandmother as a brave hunter joins them in their joyful reunion.""",final_optimized_image_dsg_.png,0.2387236148118972,0.8333333333333334,0.7144113896290462

@@ -1,0 +1,32 @@
+Iteration,Prompt,Image Path,Clip Score,DSG Score,Avg Score
+1,"""A grandmother's cottage is invaded by a large wolf, devouring her in a dark and eerie setting.""",generated_image_DSG_1308.png,0.2247332744300365,0.7142857142857143,0.6163752263145789
+2,"""A grandmother's cozy cottage is overrun by a large wolf that devours her in a dark and eerie setting.""",generated_image_DSG_2293.png,0.2388735741376876,0.6666666666666666,0.5811080481608708
+3,"""A grandmother's cozy cottage is attacked by a savage wolf in a dark and eerie setting, devouring her.""",generated_image_DSG_3109.png,0.2351542003452778,0.6,0.5270308400690555
+4,"""A grandmother's cozy cottage is overrun by a large savage wolf in a dark and eerie setting.""",generated_image_DSG_3216.png,0.2678394913673401,1.0,0.853567898273468
+5,"""A grandmother's cozy cottage is overrun by a large savage wolf in a dark and eerie setting, with the wolf devouring her.""",generated_image_DSG_4378.png,0.2644710540771484,0.75,0.6528942108154298
+6,"""A grandmother's cozy cottage is overrun by a large savage wolf in a dark and eerie setting, devouring her.""",generated_image_DSG_3382.png,0.2544632516801357,0.5,0.4508926503360271
+7,"""A grandmother's cozy cottage is overrun by a large savage wolf in a dark setting, devouring her.""",generated_image_DSG_5332.png,0.2555051669478416,0.6666666666666666,0.5844343667229016
+8,"""A grandmother's cozy cottage is overrun by a large savage wolf in a dark and eerie setting.""",generated_image_DSG_8825.png,0.2542823553085327,0.5714285714285714,0.5079993282045636
+9,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark and eerie surroundings, devouring her.""",generated_image_DSG_1780.png,0.2381002940237522,0.5714285714285714,0.5047629159476076
+10,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark and eerie surroundings, where the wolf devours her.""",generated_image_DSG_5968.png,0.2636630594730377,0.7142857142857143,0.624161183323179
+11,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark, eerie surroundings. The wolf devours her amidst shadows and darkness.""",generated_image_DSG_7124.png,0.2368766239711216,0.625,0.5473753247942243
+12,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark, eerie surroundings. She lies amidst shadows as the wolf devours her.""",generated_image_DSG_8216.png,0.2291751823254994,0.5,0.4458350364650999
+13,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark eerie surroundings. She's visible amidst chaos as it devours her.""",generated_image_DSG_3341.png,0.2262001889092581,0.7142857142857143,0.6166686092104231
+14,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark eerie surroundings. She lies amidst the chaos as it devours her.""",generated_image_DSG_4001.png,0.2285725857530321,0.4285714285714285,0.3885716600077493
+15,"""A grandmother's cozy cottage is overrun by a large savage wolf in dark eerie surroundings. She lies amidst chaos as it devours her."" becomes ""A grandmother's cozy cottage overrun by a savage wolf in dark, eerie darkness. Chaos surrounds her as she's devoured.""",generated_image_DSG_5029.png,0.236167264672426,0.6666666666666666,0.5805667862678185
+16,A grandmother's cottage overruns with a savage wolf in dark eerie surroundings. She lies amidst chaos being devoured.,generated_image_DSG_7353.png,0.2368697047233581,0.5714285714285714,0.5045167980875288
+17,A grandmother's cozy cottage is overrun by a savage wolf in dark eerie surroundings. Chaos surrounds her as she lies amidst the destruction being devoured.,generated_image_DSG_5777.png,0.236116064446313,0.5714285714285714,0.5043660700321198
+18,"A grandmother's cozy cottage overruns with a savage wolf in dark, eerie surroundings. Chaos and destruction surround her as she lies being devoured amidst the mayhem.",generated_image_DSG_1917.png,0.2290552109479904,0.5,0.4458110421895981
+19,"A grandmother lies amidst chaos and destruction as a savage wolf overruns her cozy cottage in dark, eerie surroundings.",generated_image_DSG_4306.png,0.2347757443785667,0.625,0.5469551488757134
+20,"A grandmother lies amidst chaos and destruction as a savage wolf overruns her cozy cottage in dark, eerie surroundings.",generated_image_DSG_3952.png,0.2475709145267804,0.8571428571428571,0.7352284686196419
+21,A savage wolf overruns a grandmother's cozy cottage amidst chaos and dark eerie surroundings.,generated_image_DSG_5143.png,0.2384239037831624,0.7142857142857143,0.619113352185204
+22,"A savage wolf overruns a cozy cottage in dark, eerie chaos amidst destruction.",generated_image_DSG_9166.png,0.2441270997126897,0.8333333333333334,0.7154920866092047
+23,A savage wolf invades a grandmother's cozy cottage in dark chaos amidst destruction.,generated_image_DSG_8422.png,0.2453544773161411,0.6666666666666666,0.5824042287965615
+24,A savage wolf invades a grandmother's cozy cottage amidst dark chaos and destruction.,generated_image_DSG_7167.png,0.2328285090625286,0.5,0.4465657018125057
+25,"A savage wolf invades a grandmother's cozy cottage amidst dark, eerie chaos and destruction.",generated_image_DSG_7247.png,0.2418920807540416,0.5714285714285714,0.5055212732936655
+26,A savage wolf breaks into a grandmother's cozy cottage amidst dark chaos and destruction.,generated_image_DSG_1980.png,0.2464042653640111,0.8333333333333334,0.715947519739469
+27,A savage wolf invades a grandmother's cozy cottage amidst dark chaos and eerie destruction.,generated_image_DSG_8812.png,0.2439375035464763,0.5714285714285714,0.5059303578521523
+28,A savage wolf bursts into a grandmother's cozy cottage amidst dark chaos and eerie destruction.,generated_image_DSG_7481.png,0.2561120204627514,0.6666666666666666,0.5845557374258836
+29,A wolf invades a grandmother's cozy cottage amidst dark chaos and eerie destruction with the wolf at the forefront.,generated_image_DSG_1549.png,0.244290200372537,0.5,0.4488580400745074
+30,A wolf invades a grandmother's cozy cottage amidst dark chaos and destruction with the wolf at the forefront in an eerie atmosphere.,generated_image_DSG_5172.png,0.2405809121472495,0.6666666666666666,0.5814495157627833
+31,A wolf invades a grandmother's cozy cottage amidst dark chaos and destruction with the wolf at the forefront in an eerie atmosphere.,final_optimized_image_dsg_.png,0.2358953037432261,0.5,0.4471790607486453

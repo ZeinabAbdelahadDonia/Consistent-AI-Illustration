@@ -1,0 +1,32 @@
+Iteration,Prompt,Image Path,Clip Score,DSG Score,Avg Score
+1,"""A hunter loads a giant wolf's body with massive rocks, crushing it.""",generated_image_DSG_2887.png,0.2346021495759487,0.75,0.6469204299151898
+2,"""A hunter loads massive rocks onto a lifeless giant wolf's body, crushing it.""",generated_image_DSG_6672.png,0.2468161806464195,1.0,0.849363236129284
+3,"""A hunter loads massive rocks onto a lifeless giant wolf's body.""",generated_image_DSG_3965.png,0.2546167870362599,1.0,0.850923357407252
+4,"""A hunter loads massive rocks onto a lifeless giant wolf's body to crush its form.""",generated_image_DSG_8946.png,0.2403814159333706,0.75,0.6480762831866742
+5,"""A hunter loads massive rocks onto a crushed lifeless giant wolf's body.""",generated_image_DSG_8078.png,0.2555213669935862,0.8,0.6911042733987174
+6,"""A hunter loads massive rocks onto a crushed giant wolf.""",generated_image_DSG_4466.png,0.2531294524669647,1.0,0.850625890493393
+7,"""A hunter loads massive rocks onto a crushed lifeless giant wolf's body.""",generated_image_DSG_5511.png,0.2619273662567138,0.6,0.5323854732513428
+8,"""A hunter loads massive rocks onto a crushed lifeless giant wolf.""",generated_image_DSG_2039.png,0.2416521608829498,0.8,0.6883304321765901
+9,"""A hunter loads massive rocks onto a lifeless giant wolf with crushed body.""",generated_image_DSG_8940.png,0.2247648127377033,1.0,0.8449529625475407
+10,"""A hunter loads massive rocks onto a crushed giant wolf.""",generated_image_DSG_8234.png,0.2614520738522212,1.0,0.8522904147704443
+11,"""A hunter loads massive rocks onto a crushed giant wolf.""",generated_image_DSG_9040.png,0.2556792000929515,0.75,0.6511358400185904
+12,"""A hunter loads massive rocks onto a crushed giant wolf with dramatic size contrast.""",generated_image_DSG_2237.png,0.2659602724015713,0.8,0.6931920544803144
+13,"""A hunter loads massive rocks onto a crushed giant wolf with dramatic size contrast.""",generated_image_DSG_8832.png,0.2511568516492843,1.0,0.850231370329857
+14,"""A hunter loads massive rocks onto a crushed giant wolf with dramatic size contrast, emphasizing their scale.""",generated_image_DSG_4987.png,0.2441789209842682,0.8,0.6888357841968538
+15,"""A hunter loads massive rocks onto a crushed giant wolf, emphasizing dramatic size contrast.""",generated_image_DSG_3806.png,0.2474646382033825,0.6,0.5294929276406765
+16,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize dramatic size contrast.""",generated_image_DSG_7742.png,0.2538241259753704,0.8,0.6907648251950742
+17,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size contrast.""",generated_image_DSG_4817.png,0.2623005472123623,0.6,0.5324601094424725
+18,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize dramatic size contrast.""",generated_image_DSG_8041.png,0.2582826912403106,1.0,0.8516565382480622
+19,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize dramatic size contrast.""",generated_image_DSG_8502.png,0.2523710094392299,0.8,0.6904742018878461
+20,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size contrast.""",generated_image_DSG_5277.png,0.2601561322808265,0.8,0.6920312264561654
+21,"""A hunter loads massive rocks onto a crushed giant wolf to create dramatic size contrast.""",generated_image_DSG_8829.png,0.2583167292177677,0.8,0.6916633458435537
+22,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size contrast.""",generated_image_DSG_6583.png,0.2517655678093433,0.8,0.6903531135618688
+23,"""A hunter loads massive rocks onto a crushed giant wolf to highlight size difference.""",generated_image_DSG_6891.png,0.2352821864187717,0.8,0.6870564372837544
+24,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size contrast.""",generated_image_DSG_2308.png,0.2622427940368652,0.6,0.5324485588073731
+25,"""A hunter loads massive rocks onto a crushed giant wolf to highlight size disparity.""",generated_image_DSG_2879.png,0.262797586619854,0.8,0.6925595173239709
+26,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size difference.""",generated_image_DSG_8381.png,0.2526451833546161,0.8,0.6905290366709234
+27,"""A hunter loads massive rocks onto a crushed giant wolf to demonstrate size difference.""",generated_image_DSG_7490.png,0.2401521541178226,1.0,0.8480304308235646
+28,"""Hunter loads massive rocks onto crushed giant wolf to highlight size disparity.""",generated_image_DSG_5050.png,0.244788646697998,0.8,0.6889577293395998
+29,"""A hunter loads massive rocks onto a crushed giant wolf.""",generated_image_DSG_9356.png,0.2505744993686676,1.0,0.8501148998737336
+30,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size difference.""",generated_image_DSG_5895.png,0.2503865212202072,0.75,0.6500773042440415
+31,"""A hunter loads massive rocks onto a crushed giant wolf to emphasize size difference.""",final_optimized_image_dsg_.png,0.2538599967956543,0.6,0.5307719993591309
