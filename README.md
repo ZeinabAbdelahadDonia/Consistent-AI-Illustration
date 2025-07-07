@@ -73,18 +73,19 @@ This project proposes an agentic workflow to process and analyze textual content
 ### 🛠️ Tools
 
 - Event Evaluator – Checks extracted events for semantic consistency.
-      - SBERT Cosine: Measures semantic similarity between story & events.
-      - BERTScore (F1): Fine-grained token-level alignment.
-      - ROUGE-L: Surface-level coverage of the original narrative.
-      - METEOR: Linguistic relevance & fluency.
-      - Relevance Spread: Evaluates distribution of extracted events.
+
+    - SBERT Cosine: Measures semantic similarity between story & events.
+    - BERTScore (F1): Fine-grained token-level alignment.
+    - ROUGE-L: Surface-level coverage of the original narrative.
+    - METEOR: Linguistic relevance & fluency.
+    - Relevance Spread: Evaluates distribution of extracted events.
   
 - Image Evaluator – Uses a custom benchmark for character and scene consistency.
     - CLIP Embeddings: Semantic consistency across illustrations.
     - DINO Embeddings: Visual coherence of characters.
     - Wasserstein Distance: Color distribution similarity between images.
 
-## 🔥 Models Used
+## Models Used
 
 - **1. LLaMA 3.1 8B-Instruct**
     - Role: Event Extraction & Prompt Refinement
